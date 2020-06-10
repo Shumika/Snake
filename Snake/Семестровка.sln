@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Семестровка", "Семестровка.csproj", "{82C2C2A2-2C81-44E7-9826-E626127A4F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C2C2A2-2C81-44E7-9826-E626127A4F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C2C2A2-2C81-44E7-9826-E626127A4F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C2C2A2-2C81-44E7-9826-E626127A4F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C2C2A2-2C81-44E7-9826-E626127A4F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C25B43-9D5C-4770-A256-FE8565258126}
+	EndGlobalSection
+EndGlobal
